@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    display: flex;
+    flex-flow: row;
+}
+#canvas{
+    height: 650px;
+    width: 1350px;
+    background-color: rgb(226, 226, 226);
+    margin: 50px;
+}
